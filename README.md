@@ -20,4 +20,15 @@ A full-stack machine learning web application that predicts localized T+2 hour w
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/pan-india-weather-ai.git](https://github.com/YOUR_GITHUB_USERNAME/pan-india-weather-ai.git)
+https://github.com/immortalshresth/indian-weather-ai
+
+```
+2.Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+3.Launch the streamlit server:
+```
+streamlit run app.py
+```
+
